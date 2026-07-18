@@ -26,12 +26,10 @@
 
 <br/>
 
-| | |
-|---|---|
-| **Backend** | NestJS · REST · WebSockets · Bull/Redis · JWT/OAuth 2.1 · Prisma · PostgreSQL |
-| **Frontend** | React 19 · Next.js · Vue/Pinia · TanStack Query · Zustand · Tailwind · shadcn/ui |
-| **Инфра** | Docker · S3/MinIO · Railway · VPS · GitHub Actions · Turborepo + pnpm workspaces |
-| **Качество** | Biome · ESLint · Husky · Jest/Supertest · unit + e2e на каждый сервис |
+- **Backend** — NestJS · REST · WebSockets · Bull/Redis · JWT/OAuth 2.1 · Prisma · PostgreSQL
+- **Frontend** — React 19 · Next.js · Vue/Pinia · TanStack Query · Zustand · Tailwind · shadcn/ui
+- **Инфра** — Docker · S3/MinIO · Railway · VPS · GitHub Actions · Turborepo + pnpm workspaces
+- **Качество** — Biome · ESLint · Husky · Jest/Supertest · unit + e2e на каждый сервис
 
 <br/>
 
