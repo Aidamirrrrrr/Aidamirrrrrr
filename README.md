@@ -7,7 +7,6 @@
 <br/>
 
 <a href="https://t.me/aidamirrrrrr"><img src="https://img.shields.io/badge/Telegram-@aidamirrrrrr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:dev.aidamir@gmail.com"><img src="https://img.shields.io/badge/Email-dev.aidamir%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -58,7 +57,7 @@ Telegram Mini App для управления клубом: роли, HMAC-ав�
 **🕸 [MeshLink](https://github.com/Aidamirrrrrr/meshlink)**
 P2P видеозвонки на WebRTC с mesh-топологией, без центрального сервера
 
-**🤖 [AI MCP Server](https://github.com/Aidamirrrrrr/ai-mcp)**
+**🤖 [mcp-codebase-tools](https://github.com/Aidamirrrrrr/mcp-codebase-tools)**
 16 инструментов для AI-агентов: чтение кода, поиск, патчи, git
 
 **💐 [flowers-shop](https://github.com/Aidamirrrrrr/flowers-shop)**
