@@ -41,39 +41,30 @@
 <tr>
 <td width="50%" valign="top">
 
-**🤖 [mcp-codebase-tools](https://github.com/Aidamirrrrrr/mcp-codebase-tools)**
+**[mcp-codebase-tools](https://github.com/Aidamirrrrrr/mcp-codebase-tools)**
 MCP-сервер: 16 инструментов для работы AI-агентов с кодовой базой — файлы, поиск, символы, патчи, git
 
-**🛠 [claude-mcp-telegram-bots](https://github.com/Aidamirrrrrr/claude-mcp-telegram-bots)**
+**[claude-mcp-telegram-bots](https://github.com/Aidamirrrrrr/claude-mcp-telegram-bots)**
 MCP-сервер, превращающий Claude в конструктор ботов: OAuth 2.1, очереди, деплой на Railway
 
-**⚙️ [nest-template](https://github.com/Aidamirrrrrr/nest-template)**
+**[nest-template](https://github.com/Aidamirrrrrr/nest-template)**
 Продакшн-стартер на NestJS: Prisma, Docker, CI, e2e из коробки
 
 </td>
 <td width="50%" valign="top">
 
-**🕸 [MeshLink](https://github.com/Aidamirrrrrr/meshlink)**
+**[MeshLink](https://github.com/Aidamirrrrrr/meshlink)**
 P2P видеоконференции на WebRTC с mesh-топологией — без медиасервера вообще
 
-**💳 [NeonVPN](https://github.com/Aidamirrrrrr/neon-vpn)**
+**[NeonVPN](https://github.com/Aidamirrrrrr/neon-vpn)**
 Подписочный сервис на 2000 пользователей: свой биллинг, автопродление, выдача и отзыв доступов
 
-**🦀 [rust-axum-services-template](https://github.com/Aidamirrrrrr/rust-axum-services-template)**
+**[rust-axum-services-template](https://github.com/Aidamirrrrrr/rust-axum-services-template)**
 Шаблон микросервисов на Rust + Axum
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-## GitHub
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aidamirrrrrr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidamirrrrrr&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&langs_count=8&hide=html,css,scss" height="165" />
-</div>
 
 <br/>
 
