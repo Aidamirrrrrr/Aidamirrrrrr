@@ -8,17 +8,17 @@
 
 <br/>
 
-## Кто я
+## About me
 
-Фулстек-инженер: проектирую системы, пишу бэкенд и фронтенд, довожу до CI/CD и продакшена — и дальше живу с этим кодом, поэтому пишу его так, чтобы не было мучительно больно. Работаю в продуктовых командах и на коммерческих проектах, менторю junior-разработчиков: код-ревью, стандарты, спринты.
+Fullstack engineer: I design systems, write backend and frontend, ship them through CI/CD to production — and then live with that code, which is why I write it so it doesn't hurt later. I work in product teams and on commercial projects, and mentor junior developers: code review, standards, sprint planning.
 
-Сейчас веду платформу для авторов контента: 5 микросервисов на NestJS, монорепо на Turborepo, два веб-клиента, нативное iOS-приложение на SwiftUI, полный CI/CD с e2e-тестами на каждый сервис.
+Right now I'm building a platform for content creators: 5 microservices on NestJS, a Turborepo monorepo, two web clients, a native iOS app in SwiftUI, full CI/CD with e2e tests per service.
 
-**Что мне важно:** архитектура, которую можно объяснить на салфетке · инфраструктура, которая не будит по ночам · код, который читается без археологии.
+**What matters to me:** architecture you can explain on a napkin · infrastructure that doesn't wake you up at night · code that reads without an archaeology dig.
 
 <br/>
 
-## Стек
+## Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nestjs,nodejs,bun,postgres,prisma,redis,docker,githubactions,py,fastapi,swift,tailwind,vite&theme=dark&perline=9" />
@@ -28,14 +28,14 @@
 
 - **Backend** — NestJS · REST · WebSockets · Bull/Redis · JWT/OAuth 2.1 · Prisma · PostgreSQL
 - **Frontend** — React 19 · Next.js · Vue/Pinia · TanStack Query · Zustand · Tailwind · shadcn/ui
-- **Инфра** — Docker · S3/MinIO · Railway · VPS · GitHub Actions · Turborepo + pnpm workspaces
-- **Качество** — Biome · ESLint · Husky · Jest/Supertest · unit + e2e на каждый сервис
+- **Infra** — Docker · S3/MinIO · Railway · VPS · GitHub Actions · Turborepo + pnpm workspaces
+- **Quality** — Biome · ESLint · Husky · Jest/Supertest · unit + e2e per service
 
 <br/>
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Связаться-@aidamirrrrrr-2C5364?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aidamirrrrrr)
+[![Telegram](https://img.shields.io/badge/Get%20in%20touch-@aidamirrrrrr-2C5364?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aidamirrrrrr)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
