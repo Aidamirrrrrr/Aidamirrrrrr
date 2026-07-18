@@ -33,39 +33,6 @@
 
 <br/>
 
-## Проекты
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[mcp-codebase-tools](https://github.com/Aidamirrrrrr/mcp-codebase-tools)**
-MCP-сервер: 16 инструментов для работы AI-агентов с кодовой базой — файлы, поиск, символы, патчи, git
-
-**[claude-mcp-telegram-bots](https://github.com/Aidamirrrrrr/claude-mcp-telegram-bots)**
-MCP-сервер, превращающий Claude в конструктор ботов: OAuth 2.1, очереди, деплой на Railway
-
-**[nest-template](https://github.com/Aidamirrrrrr/nest-template)**
-Продакшн-стартер на NestJS: Prisma, Docker, CI, e2e из коробки
-
-</td>
-<td width="50%" valign="top">
-
-**[MeshLink](https://github.com/Aidamirrrrrr/meshlink)**
-P2P видеоконференции на WebRTC с mesh-топологией — без медиасервера вообще
-
-**[NeonVPN](https://github.com/Aidamirrrrrr/neon-vpn)**
-Подписочный сервис на 2000 пользователей: свой биллинг, автопродление, выдача и отзыв доступов
-
-**[rust-axum-services-template](https://github.com/Aidamirrrrrr/rust-axum-services-template)**
-Шаблон микросервисов на Rust + Axum
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Связаться-@aidamirrrrrr-2C5364?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aidamirrrrrr)
