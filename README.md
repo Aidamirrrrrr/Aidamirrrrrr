@@ -1,59 +1,88 @@
-<h1 align="center">Привет, я Айдамир 👋</h1>
-<h3 align="center">Fullstack-разработчик — TypeScript / React / NestJS</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+engineer+%40+VELIZHANIN;TypeScript+%2F+React+%2F+NestJS+%2F+Telegram;Building+Telegram+platforms+%26+MCP+tools;Krasnodar+%E2%86%92+open+to+Moscow%2FSPb" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=200&section=header&text=Aidamir%20Kambiev&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%94%20TypeScript%20%2F%20React%20%2F%20NestJS&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://t.me/aidamirrrrrr"><img src="https://img.shields.io/badge/Telegram-@aidamirrrrrr-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:dev.aidamir@gmail.com"><img src="https://img.shields.io/badge/Email-dev.aidamir%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Krasnodar%2C%20Russia-informational?style=flat-square" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Telegram+platforms+at+scale;Microservices+%2B+Telegram+Mini+Apps+%2B+iOS;MCP+tools+for+AI+agents;Krasnodar+%E2%86%92+open+to+Moscow+%2F+SPb" alt="Typing SVG" />
 
----
+<br/>
 
-### Обо мне
+<a href="https://t.me/aidamirrrrrr"><img src="https://img.shields.io/badge/Telegram-@aidamirrrrrr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:dev.aidamir@gmail.com"><img src="https://img.shields.io/badge/Email-dev.aidamir%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-Fullstack-разработчик с опытом коммерческой разработки в продакшн-командах: от проектирования архитектуры до CI/CD, деплоя и поддержки. Сейчас — в **VELIZHANIN**, строю Telegram-платформу для авторов контента с нуля (микросервисы, Telegram Mini Apps, нативный iOS). Параллельно веду проектную/фриланс-разработку и менторю трёх junior-разработчиков.
+</div>
 
-В приоритете — читаемый код, надёжная инфраструктура и продукт, который реально полезен бизнесу. Ищу команду, где можно расти технически и влиять на архитектурные решения.
+<br/>
 
----
+## О чём это всё
 
-### 🔧 Стек
+Fullstack-разработчик с опытом в продакшн-командах: проектирую архитектуру, довожу до CI/CD и деплоя, потом сам же поддерживаю. Сейчас строю Telegram-платформу для авторов контента с нуля — 5 микросервисов, два Mini App, нативный iOS. Параллельно веду проектную разработку и менторю троих junior-разработчиков.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nestjs,nodejs,postgres,prisma,redis,docker,githubactions,py,fastapi,tailwind,vite,figma&theme=dark" />
-</p>
+В приоритете — читаемый код, инфраструктура, которая не разваливается по ночам, и продукт, приносящий деньги, а не просто красивый в портфолио.
 
-**Telegram-экосистема:** Mini Apps SDK, Bot API, Grammy, HMAC initData auth
-**Инфраструктура:** Docker, Redis, S3/MinIO, Railway, GitHub Actions CI/CD, Turborepo + pnpm workspaces
-**Качество:** Biome, ESLint, Husky, unit/e2e-тесты по каждому сервису
+<br/>
 
----
+## Стек
 
-### 🚀 Проекты
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nestjs,nodejs,postgres,prisma,redis,docker,githubactions,py,fastapi,tailwind,vite,figma&theme=dark&perline=8" />
+</div>
 
-**Коммерческие**
-- **Global Dent Club** — Telegram-бот продажи доступа в закрытый клуб: воронки продаж, интеграции Bitrix24/GetCourse/ЮKassa, визуальный редактор воронок, аналитика
-- **D1 Events** — Telegram Mini App для управления клубом: события, роли, HMAC-авторизация, автодеплой по SSH
-- **AlevRolls** — интернет-магазин доставки с интеграцией iiko и оплатой через ЮKassa
-- **InSpay** — миграция финтех-платформы с Vue 2 на современный стек
+<br/>
 
-**Свои**
-- **[NeonVPN](https://github.com/Aidamirrrrrr/neon-vpn)** — VPN по подписке: биллинг и автопродление через ЮKassa, Telegram-бот + Mini App как интерфейс, довёл до 2000 пользователей
-- **[claude-mcp-telegram-bots](https://github.com/Aidamirrrrrr/claude-mcp-telegram-bots)** — MCP-сервер, который позволяет собирать и деплоить Telegram-ботов прямо через Claude
-- **[MeshLink](https://github.com/Aidamirrrrrr/meshlink)** — P2P видеозвонки на WebRTC с mesh-топологией без центрального сервера
-- **[AI MCP Server](https://github.com/Aidamirrrrrr/ai-mcp)** — MCP-сервер с 16 инструментами для работы AI-агентов с кодовой базой
+| | |
+|---|---|
+| **Telegram** | Mini Apps SDK · Bot API · Grammy · HMAC initData auth |
+| **Инфра** | Docker · Redis · S3/MinIO · Railway · Turborepo + pnpm workspaces |
+| **Качество** | Biome · ESLint · Husky · unit/e2e на каждый сервис |
 
----
+<br/>
 
-### 📈 GitHub
+## Проекты
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aidamirrrrrr&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aidamirrrrrr&theme=dark&hide_border=true" height="165" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center"><i>Открыт к предложениям — пишите в Telegram.</i></p>
+**🛠 [claude-mcp-telegram-bots](https://github.com/Aidamirrrrrr/claude-mcp-telegram-bots)**
+MCP-сервер: собираешь и деплоишь Telegram-ботов прямо из Claude
+
+**💳 [NeonVPN](https://github.com/Aidamirrrrrr/neon-vpn)**
+Подписочный VPN-сервис — 2000 пользователей, свой биллинг на ЮKassa
+
+**📅 [D1 Events](https://github.com/Aidamirrrrrr/d1-events)**
+Telegram Mini App для управления клубом: роли, HMAC-авторизация, автодеплой
+
+</td>
+<td width="50%" valign="top">
+
+**🕸 [MeshLink](https://github.com/Aidamirrrrrr/meshlink)**
+P2P видеозвонки на WebRTC с mesh-топологией, без центрального сервера
+
+**🤖 [AI MCP Server](https://github.com/Aidamirrrrrr/ai-mcp)**
+16 инструментов для AI-агентов: чтение кода, поиск, патчи, git
+
+**💐 [flowers-shop](https://github.com/Aidamirrrrrr/flowers-shop)**
+Telegram Mini App цветочного магазина: каталог, корзина, оплата
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aidamirrrrrr&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aidamirrrrrr&theme=radical&hide_border=true&background=0D1117" height="165" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Aidamirrrrrr&theme=radical&no-bg=true&row=1&column=6" />
+</div>
+
+<br/>
+
+<div align="center">
+<sub>Открыт к предложениям — пишите в Telegram.</sub>
+</div>
