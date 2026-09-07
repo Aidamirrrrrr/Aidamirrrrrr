@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130" role="img" aria-label="Four years of commercial experience, ten or more products shipped end to end, two thousand users on my own product, three juniors mentored">
+  <rect width="900" height="130" fill="#ffffff"/>
+  <line x1="225" y1="20" x2="225" y2="112" stroke="#d2d2d7" stroke-width="1"/>
+  <line x1="450" y1="20" x2="450" y2="112" stroke="#d2d2d7" stroke-width="1"/>
+  <line x1="675" y1="20" x2="675" y2="112" stroke="#d2d2d7" stroke-width="1"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="112" y="58" font-size="40" font-weight="600" fill="#1d1d1f" letter-spacing="-1">4</text>
+    <text x="112" y="86" font-size="15" fill="#6e6e73">years of commercial</text>
+    <text x="112" y="106" font-size="15" fill="#6e6e73">experience</text>
+    <text x="337" y="58" font-size="40" font-weight="600" fill="#1d1d1f" letter-spacing="-1">10+</text>
+    <text x="337" y="86" font-size="15" fill="#6e6e73">products shipped</text>
+    <text x="337" y="106" font-size="15" fill="#6e6e73">end to end</text>
+    <text x="562" y="58" font-size="40" font-weight="600" fill="#1d1d1f" letter-spacing="-1">2,000+</text>
+    <text x="562" y="86" font-size="15" fill="#6e6e73">users on</text>
+    <text x="562" y="106" font-size="15" fill="#6e6e73">my own product</text>
+    <text x="787" y="58" font-size="40" font-weight="600" fill="#1d1d1f" letter-spacing="-1">3</text>
+    <text x="787" y="86" font-size="15" fill="#6e6e73">juniors</text>
+    <text x="787" y="106" font-size="15" fill="#6e6e73">mentored</text>
+  </g>
+</svg>

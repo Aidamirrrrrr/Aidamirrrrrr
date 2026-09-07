@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Aidamir Kambiev, fullstack developer. I build digital products end to end, from the server to the screen in your hand.">
+  <rect width="900" height="300" fill="#ffffff"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="450" y="66" font-size="19" font-weight="500" fill="#0066cc">Fullstack Developer</text>
+    <text x="450" y="146" font-size="66" font-weight="600" fill="#1d1d1f" letter-spacing="-1.5">Aidamir Kambiev</text>
+    <text x="450" y="190" font-size="22" fill="#515154">I build digital products end to end,</text>
+    <text x="450" y="220" font-size="22" fill="#515154">from the server to the screen in your hand.</text>
+  </g>
+  <line x1="320" y1="252" x2="580" y2="252" stroke="#d2d2d7" stroke-width="1"/>
+  <text x="450" y="282" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#6e6e73" text-anchor="middle">VELIZHANIN · since December 2025 · Saint Petersburg / remote</text>
+</svg>

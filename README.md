@@ -1,42 +1,114 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=200&section=header&text=Aidamir%20Kambiev&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Engineer&descAlignY=58&descSize=20" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=TypeScript+%E2%80%A2+React+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL;From+architecture+to+CI%2FCD+and+production;Microservices%2C+monorepos%2C+real+products" alt="Typing SVG" />
-
-</div>
-
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="Aidamir Kambiev, fullstack developer. I build digital products end to end, from the server to the screen in your hand. VELIZHANIN since December 2025, Saint Petersburg or remote." width="100%">
+</picture>
 
 ## About me
 
-Fullstack engineer: I design systems, write backend and frontend, ship them through CI/CD to production — and then live with that code, which is why I write it so it doesn't hurt later. I work in product teams and on commercial projects, and mentor junior developers: code review, standards, sprint planning.
+Fullstack developer with four years of commercial experience. I own the product
+end to end: architecture and database design, REST APIs, backend and frontend,
+third-party integrations, job queues, CI/CD, deployment and production support.
 
-Right now I'm building a platform for content creators: 5 microservices on NestJS, a Turborepo monorepo, two web clients, a native iOS app in SwiftUI, full CI/CD with e2e tests per service.
+I have worked on payment systems, Telegram Mini Apps, SSR applications and
+heavily integrated backend services. I run code reviews, mentored three junior
+developers and introduced engineering standards. My own product reached 2,000+
+users with a paying audience.
 
-**What matters to me:** architecture you can explain on a napkin · infrastructure that doesn't wake you up at night · code that reads without an archaeology dig.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" alt="Four years of commercial experience. Ten or more products shipped end to end. Two thousand users on my own product. Three juniors mentored." width="100%">
+</picture>
 
-<br/>
+## What I do
+
+**Backend and data** — REST APIs on NestJS, PostgreSQL schemas, job queues,
+integrations and payments.
+
+**Interfaces** — React and Next.js, SSR, Telegram Mini Apps. Took a native iOS
+app all the way to an App Store release.
+
+**Infrastructure** — Docker, CI/CD on GitHub Actions, deployment and production
+support.
+
+## Now
+
+**VELIZHANIN** · Fullstack Developer · since December 2025
+
+Building the brand's whole product platform: server, mobile apps and bots. A
+platform for Telegram channel authors, with content management, scheduled
+publishing and AI features.
+
+<details>
+<summary>What that involves</summary>
+
+<br>
+
+- Designed and built a NestJS REST API from scratch as domain modules: post
+  catalogue, JWT auth through the Telegram Mini App, S3 media via presigned
+  upload, asynchronous publishing on BullMQ and Redis, AI headline generation.
+- Built the client applications on a shared API: two Telegram Mini Apps, a
+  native iOS app in SwiftUI, an Android client and Telegram bots on Grammy.
+- Set up a pnpm and Turborepo monorepo with shared packages for security guards,
+  HTTP bootstrap, health probes and S3. Wiring up a new app takes hours instead
+  of days.
+- Configured CI/CD on GitHub Actions: lint, typecheck, unit and e2e tests, build
+  and automatic deployment. Regressions surface before merge; releases need no
+  manual deploy.
+
+**Stack** — TypeScript · NestJS · Prisma · PostgreSQL · Redis · BullMQ ·
+React 19 · Vite · TanStack Query · SwiftUI · Kotlin · Grammy · S3 · Docker ·
+Turborepo · GitHub Actions
+
+</details>
+
+## Selected work
+
+| Project | Year | What it is |
+| --- | --- | --- |
+| **VELIZHANIN Platform** | 2026 | An API of five domain modules on one PostgreSQL, a Telegram Mini App for channel navigation, a separate client app and an admin panel with analytics. |
+| **NeonVPN** | 2026 | My own subscription VPN across seven services. YooKassa billing with auto-renewal, automated access provisioning, 2,000+ users with a paying audience. |
+| **FlowAi** | 2025 | The client side of an AI platform: a chat streaming the model's answer over WebSocket as it is generated, an admin panel and a client cabinet. |
+| **Global Dent Club** | 2024 | Selling access to a private club through Telegram: configurable sales funnels, Bitrix24, GetCourse and YooKassa with recurring payments. |
+| **ELEMENT Concept** | 2026 | A florist studio: a site moved off Tilda onto static plus Bun, and a Telegram Mini App shop with catalogue, cart and YooKassa checkout. |
+| **Red Dragon Way** | 2026 | The site of an online Chinese language school. A trial-lesson request goes straight into the teachers' working chat. |
+| **Keel** | 2026 | A VS Code extension over Ollama. The model runs locally and nothing leaves the machine; every write is shown as a diff before it happens. |
+
+<details>
+<summary>Earlier projects</summary>
+
+<br>
+
+- **InSpay** (2026) — a fintech platform on Vue.js: refactored the legacy
+  frontend, moved the codebase to TypeScript, lifted state into Pinia. Time to
+  ship new functionality dropped from 2–3 weeks to 2–3 days.
+- **MonteMove** (2025) — a personal finance platform: a Next.js frontend with
+  complex forms and validation, backend work in Python and FastAPI, and
+  financial data parsers.
+- **ALEVROLLS** (2025) — a food delivery service on Next.js integrated with the
+  iiko Cloud API: menu and orders from the accounting system, Telegram auth, a
+  persistent cart and order history.
+- **MOSK** (2025) — intake and moderation of event submissions for a Telegram
+  channel: a Grammy and Bun bot, a Next.js admin panel and YooKassa payments.
+
+</details>
 
 ## Stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nestjs,nodejs,bun,postgres,prisma,redis,docker,githubactions,py,fastapi,swift,tailwind,vite&theme=dark&perline=9" />
-</div>
+**Frontend** — React · Next.js · TypeScript · Vue.js · Tailwind CSS ·
+Framer Motion · Zustand · SwiftUI · TanStack Query · Vite
 
-<br/>
+**Backend** — NestJS · Node.js · PostgreSQL · Prisma · Drizzle · Redis ·
+Grammy · YooKassa · Zod · WebSocket · Rust · Axum · Bun
 
-- **Backend** — NestJS · REST · WebSockets · Bull/Redis · JWT/OAuth 2.1 · Prisma · PostgreSQL
-- **Frontend** — React 19 · Next.js · Vue/Pinia · TanStack Query · Zustand · Tailwind · shadcn/ui
-- **Infra** — Docker · S3/MinIO · Railway · VPS · GitHub Actions · Turborepo + pnpm workspaces
-- **Quality** — Biome · ESLint · Husky · Jest/Supertest · unit + e2e per service
+**Infrastructure** — Docker · Railway · Vercel · GitHub Actions · Nginx ·
+Cloudflare · S3 · Ubuntu · Turborepo · pnpm
 
-<br/>
+**Tools** — Tauri · Git · Biome · Vitest · Playwright · Sentry · Swagger ·
+Postman · Linear · Notion
 
-<div align="center">
+## Get in touch
 
-[![Telegram](https://img.shields.io/badge/Get%20in%20touch-@aidamirrrrrr-2C5364?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aidamirrrrrr)
+Open to job offers and to project work: product development, architecture,
+getting a project to production. I reply within a day.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
-
-</div>
+**[kambiev.tech](https://kambiev.tech)** · [hello@kambiev.tech](mailto:hello@kambiev.tech) · [@aidamirkambiev](https://t.me/aidamirkambiev)
