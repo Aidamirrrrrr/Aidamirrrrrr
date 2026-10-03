@@ -5,7 +5,7 @@
 
 ## About me
 
-Fullstack developer with four years of commercial experience. I own the product
+Fullstack developer with over two and a half years of commercial experience. I own the product
 end to end: architecture and database design, REST APIs, backend and frontend,
 third-party integrations, job queues, CI/CD, deployment and production support.
 
@@ -16,7 +16,7 @@ users with a paying audience.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img src="assets/stats-light.svg" alt="Four years of commercial experience. Ten or more products shipped end to end. Two thousand users on my own product. Three juniors mentored." width="100%">
+  <img src="assets/stats-light.svg" alt="Two and a half years of commercial experience. Ten or more products shipped end to end. Two thousand users on my own product. Three juniors mentored." width="100%">
 </picture>
 
 ## What I do
@@ -24,8 +24,7 @@ users with a paying audience.
 **Backend and data** — REST APIs on NestJS, PostgreSQL schemas, job queues,
 integrations and payments.
 
-**Interfaces** — React and Next.js, SSR, Telegram Mini Apps. Took a native iOS
-app all the way to an App Store release.
+**Interfaces** — React and Next.js, SSR, Telegram Mini Apps.
 
 **Infrastructure** — Docker, CI/CD on GitHub Actions, deployment and production
 support.
@@ -34,7 +33,7 @@ support.
 
 **VELIZHANIN** · Fullstack Developer · since December 2025
 
-Building the brand's whole product platform: server, mobile apps and bots. A
+Building the brand's whole product platform: server, Mini Apps and bots. A
 platform for Telegram channel authors, with content management, scheduled
 publishing and AI features.
 
@@ -46,8 +45,8 @@ publishing and AI features.
 - Designed and built a NestJS REST API from scratch as domain modules: post
   catalogue, JWT auth through the Telegram Mini App, S3 media via presigned
   upload, asynchronous publishing on BullMQ and Redis, AI headline generation.
-- Built the client applications on a shared API: two Telegram Mini Apps, a
-  native iOS app in SwiftUI, an Android client and Telegram bots on Grammy.
+- Built one backend for two mobile apps, Telegram Mini Apps and a web admin,
+  plus a Telegram bot builder. Developed two Telegram Mini Apps on React 19.
 - Set up a pnpm and Turborepo monorepo with shared packages for security guards,
   HTTP bootstrap, health probes and S3. Wiring up a new app takes hours instead
   of days.
@@ -56,8 +55,7 @@ publishing and AI features.
   manual deploy.
 
 **Stack** — TypeScript · NestJS · Prisma · PostgreSQL · Redis · BullMQ ·
-React 19 · Vite · TanStack Query · SwiftUI · Kotlin · Grammy · S3 · Docker ·
-Turborepo · GitHub Actions
+React 19 · Vite · TanStack Query · S3 · Docker · Turborepo · GitHub Actions
 
 </details>
 
@@ -67,7 +65,7 @@ Turborepo · GitHub Actions
 | --- | --- | --- |
 | **VELIZHANIN Platform** | 2026 | An API of five domain modules on one PostgreSQL, a Telegram Mini App for channel navigation, a separate client app and an admin panel with analytics. |
 | **NeonVPN** | 2026 | My own subscription VPN across seven services. YooKassa billing with auto-renewal, automated access provisioning, 2,000+ users with a paying audience. |
-| **FlowAi** | 2025 | The client side of an AI platform: a chat streaming the model's answer over WebSocket as it is generated, an admin panel and a client cabinet. |
+| **FlowAi** | 2025 | An AI platform for sales quality control: backend for call recording processing, a chat streaming the model's answer over WebSocket, an admin panel and a client cabinet with JWT auth. |
 | **Global Dent Club** | 2024 | Selling access to a private club through Telegram: configurable sales funnels, Bitrix24, GetCourse and YooKassa with recurring payments. |
 | **ELEMENT Concept** | 2026 | A florist studio: a site moved off Tilda onto static plus Bun, and a Telegram Mini App shop with catalogue, cart and YooKassa checkout. |
 | **Red Dragon Way** | 2026 | The site of an online Chinese language school. A trial-lesson request goes straight into the teachers' working chat. |
@@ -81,9 +79,10 @@ Turborepo · GitHub Actions
 - **InSpay** (2026) — a fintech platform on Vue.js: refactored the legacy
   frontend, moved the codebase to TypeScript, lifted state into Pinia. Time to
   ship new functionality dropped from 2–3 weeks to 2–3 days.
-- **MonteMove** (2025) — a personal finance platform: a Next.js frontend with
-  complex forms and validation, backend work in Python and FastAPI, and
-  financial data parsers.
+- **MonteMove** (2025) — an internal finance platform: cards, crypto wallets,
+  balances and reporting. TypeScript backend with data parsers and a REST API,
+  a Next.js frontend with complex forms and Zod validation, and a Telegram
+  app on React.
 - **ALEVROLLS** (2025) — a food delivery service on Next.js integrated with the
   iiko Cloud API: menu and orders from the accounting system, Telegram auth, a
   persistent cart and order history.
@@ -95,7 +94,7 @@ Turborepo · GitHub Actions
 ## Stack
 
 **Frontend** — React · Next.js · TypeScript · Vue.js · Tailwind CSS ·
-Framer Motion · Zustand · SwiftUI · TanStack Query · Vite
+Framer Motion · Zustand · TanStack Query · Vite
 
 **Backend** — NestJS · Node.js · PostgreSQL · Prisma · Drizzle · Redis ·
 Grammy · YooKassa · Zod · WebSocket · Rust · Axum · Bun
@@ -111,4 +110,4 @@ Postman · Linear · Notion
 Open to job offers and to project work: product development, architecture,
 getting a project to production. I reply within a day.
 
-**[kambiev.tech](https://kambiev.tech)** · [hello@kambiev.tech](mailto:hello@kambiev.tech) · [@aidamirkambiev](https://t.me/aidamirkambiev)
+[@aidamirrrrrr](https://t.me/aidamirrrrrr)
