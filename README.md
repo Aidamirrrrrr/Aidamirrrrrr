@@ -14,11 +14,6 @@ heavily integrated backend services. I run code reviews, mentored three junior
 developers and introduced engineering standards. My own product reached 2,000+
 users with a paying audience.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img src="assets/stats-light.svg" alt="Two and a half years of commercial experience. Ten or more products shipped end to end. Two thousand users on my own product. Three juniors mentored." width="100%">
-</picture>
-
 ## What I do
 
 **Backend and data** — REST APIs on NestJS, PostgreSQL schemas, job queues,
